@@ -6,6 +6,6 @@ var rows = require('./data.json')
 
 module.exports = createReactClass({
   render () {
-    return <div>Report</div>
+    return <div>Reports</div>
   }
 })
